@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @manishkrpandey
-- 👀 I’m interested in application development
-- 🌱 I’m currently working as sse ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Manish Kumar Pandey
+- 👀 I’m interested in web application development
+- 🌱 I’m currently working as Senior Software Engineer In MakemyTrip
+- 💞️ I’m looking to advocate for the advancement of web performance to the developer community with a focus on the Core Web Vitals metrics and related performance measurement tools.
 - 📫 How to reach me ... mkpandey015@gmail.com
 
 <!---
